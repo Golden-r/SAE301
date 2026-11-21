@@ -1,2 +1,4 @@
+./controleur/Controleur.java
+
 ./ihm/FrameJeu.java
-./ihm/PanelGeneral.java
+./ihm/PanelPrincipal.java
